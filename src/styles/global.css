@@ -1,0 +1,12 @@
+@import 'flowbite';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gray-1 text-body-color;
+  }
+  
+  h1 {
+    @apply text-2xl font-bold;
+  }
